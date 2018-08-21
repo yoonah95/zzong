@@ -1,0 +1,4 @@
+#Tue Aug 21 17:22:13 KST 2018
+base.0=C\:\\Users\\yoonah\\Desktop\\ace10-master\\ace4-master\\sample-app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

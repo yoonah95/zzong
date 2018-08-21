@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [:k4l-video-trimmer] C:\Users\yoonah\Desktop\ace10-master\ace4-master\k4l-video-trimmer\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\78113fef1693ea5db5d92391e5f3cb38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\3ff787dbd96b5146f1abf98479ea14b4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2db8ecc31d3c1f6be304d28b0803bfb6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\abbd49629a028110a58a897587294004\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1ba01769243265da1e5d8f5ed81c5385\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\154ac31b909284b2303e335e759ea206\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\54ee47429bd0acbbeeda29c2c23ccc9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\327be17ea36d17f72ad2f4d348ccfc77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a185dcc043066db860267f8385a1fd1e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0ecc976cf60af1fde69fa6ae0947d81e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\77814e51e00e766adf1be7efcdf899d6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f992a0c00510b08e743545136d76d80\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e092899e7a7f8a5aa8738df1d6f3b31a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:5:5-80
+MERGED from [:k4l-video-trimmer] C:\Users\yoonah\Desktop\ace10-master\ace4-master\k4l-video-trimmer\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-80
+MERGED from [:k4l-video-trimmer] C:\Users\yoonah\Desktop\ace10-master\ace4-master\k4l-video-trimmer\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:6:5-81
+MERGED from [:k4l-video-trimmer] C:\Users\yoonah\Desktop\ace10-master\ace4-master\k4l-video-trimmer\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-81
+MERGED from [:k4l-video-trimmer] C:\Users\yoonah\Desktop\ace10-master\ace4-master\k4l-video-trimmer\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:8:5-29:19
+MERGED from [:k4l-video-trimmer] C:\Users\yoonah\Desktop\ace10-master\ace4-master\k4l-video-trimmer\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-15:19
+MERGED from [:k4l-video-trimmer] C:\Users\yoonah\Desktop\ace10-master\ace4-master\k4l-video-trimmer\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2db8ecc31d3c1f6be304d28b0803bfb6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2db8ecc31d3c1f6be304d28b0803bfb6\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:13:9-40
+activity#life.knowledge4.videotrimmersample.MainActivity
+ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:14:9-50
+	android:name
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:14:19-47
+activity#life.knowledge4.videotrimmersample.TrimmerActivity
+ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:15:9-53
+	android:name
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:15:19-50
+activity#life.knowledge4.videotrimmersample.LoginActivity
+ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:16:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:20:27-74
+activity#life.knowledge4.videotrimmersample.FriendActivity
+ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:23:9-52
+	android:name
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:23:19-49
+activity#life.knowledge4.videotrimmersample.RegistActivity
+ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:24:9-52
+	android:name
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:24:19-49
+activity#life.knowledge4.videotrimmersample.ListActivity
+ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:25:9-50
+	android:name
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:25:19-47
+activity#life.knowledge4.videotrimmersample.UploadActivity
+ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:26:19-49
+activity#life.knowledge4.videotrimmersample.GalleryActivity
+ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:27:9-53
+	android:name
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:27:19-50
+activity#life.knowledge4.videotrimmersample.VideoExtract
+ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:28:9-59
+	android:name
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml:28:19-47
+uses-sdk
+INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml
+MERGED from [:k4l-video-trimmer] C:\Users\yoonah\Desktop\ace10-master\ace4-master\k4l-video-trimmer\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:k4l-video-trimmer] C:\Users\yoonah\Desktop\ace10-master\ace4-master\k4l-video-trimmer\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\78113fef1693ea5db5d92391e5f3cb38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\78113fef1693ea5db5d92391e5f3cb38\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\3ff787dbd96b5146f1abf98479ea14b4\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\3ff787dbd96b5146f1abf98479ea14b4\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2db8ecc31d3c1f6be304d28b0803bfb6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2db8ecc31d3c1f6be304d28b0803bfb6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\abbd49629a028110a58a897587294004\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\abbd49629a028110a58a897587294004\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1ba01769243265da1e5d8f5ed81c5385\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1ba01769243265da1e5d8f5ed81c5385\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\154ac31b909284b2303e335e759ea206\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\154ac31b909284b2303e335e759ea206\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\54ee47429bd0acbbeeda29c2c23ccc9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\54ee47429bd0acbbeeda29c2c23ccc9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\327be17ea36d17f72ad2f4d348ccfc77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\327be17ea36d17f72ad2f4d348ccfc77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a185dcc043066db860267f8385a1fd1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a185dcc043066db860267f8385a1fd1e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0ecc976cf60af1fde69fa6ae0947d81e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0ecc976cf60af1fde69fa6ae0947d81e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\77814e51e00e766adf1be7efcdf899d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\77814e51e00e766adf1be7efcdf899d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f992a0c00510b08e743545136d76d80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f992a0c00510b08e743545136d76d80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e092899e7a7f8a5aa8738df1d6f3b31a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\yoonah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e092899e7a7f8a5aa8738df1d6f3b31a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yoonah\Desktop\ace10-master\ace4-master\sample-app\src\main\AndroidManifest.xml
